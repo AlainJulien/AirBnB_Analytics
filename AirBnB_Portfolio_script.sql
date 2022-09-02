@@ -1,3 +1,5 @@
+--This was done to see prjected monthly revenues on an AirBnB in case someone wanted to invest in an AirBnB and what was rated as nice AirBnBs to visit when in Newark.--
+
 select * from listings$;
 
 --Projected Monthly revenue for the next 30 days within AirBnBs in Newark--
