@@ -1,4 +1,5 @@
---This was done to see prjected monthly revenues on an AirBnB in case someone wanted to invest in an AirBnB and what was rated as nice AirBnBs to visit when in Newark.--
+--This was done to see projected monthly revenues on an AirBnB in case someone wanted to invest in an AirBnB and--
+--what was rated as "nice" AirBnBs to visit when in Newark.--
 
 select * from listings$;
 
